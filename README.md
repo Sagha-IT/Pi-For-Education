@@ -1,2 +1,2 @@
-# Pi-For-Education
-This Repository of Pi For Education - Yayasan Sirrul Hikmah for PiOS of Pi-Network
+#Pi For Education - Yayasan Sirrul Hikmah
+This Repository ofPi For Education - Yayasan Sirrul Hikmah for PiOS of Pi-Network
